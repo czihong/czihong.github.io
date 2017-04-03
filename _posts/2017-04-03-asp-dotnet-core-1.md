@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Asp.Net Core 1 - 从dotnet new开始说起
+author: Zihong Chen
 ---
 
 如果要创建一个Asp.Net的项目，可以通过最新的Visual Studio IDE创建，版本必须是2015 with update 3 或者是2017. 但是也可以通过.net cli的命令行来创建。Microsoft Love Linux，
